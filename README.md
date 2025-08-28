@@ -1,5 +1,5 @@
 # Путь юного кодописца лежит через гит
-![https://www.meme-arsenal.com/memes/8922f71edf2ca273438d0d5f0fec68e8.jpg]
+![Image](https://github.com/user-attachments/assets/4767bd9f-7687-4070-a1b1-19aa6d0adc88)
 ---
 
 ## **Установка Git на компьютер**
